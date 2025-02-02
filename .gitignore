@@ -1,0 +1,23 @@
+# Ignore notebooks
+*.ipynb
+
+# Ignore data files
+*.csv
+*.txt
+*.json
+
+# Ignore Python cache files
+__pycache__/
+*.pyc
+
+# Ignore temporary files
+*.tmp
+*~
+
+# Ignore operating system files
+.DS_Store
+Thumbs.db
+
+# Ignore virtual environment files
+venv/
+.venv/
